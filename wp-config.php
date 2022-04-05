@@ -26,7 +26,7 @@ define( 'DB_NAME', 'calzadofenix' );
 define( 'DB_USER', 'forge' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Q2b2TQEDvfeD0jiIyF6R' );
+define( 'DB_PASSWORD', 'fR7ZbKrA0ULfnIR8kslk' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
