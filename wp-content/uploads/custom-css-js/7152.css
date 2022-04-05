@@ -1,0 +1,60 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Añade aquí tu código CSS.
+
+Por ejemplo:
+.ejemplo {
+    color: red;
+}
+
+Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3schools.com/css/css_syntax.asp
+
+Fin del comentario */ 
+.row-productos-destacados{
+      background-size: contain !important;
+}
+
+.product-label.new{
+  background-color: #f7732f !important 
+}
+.product-label.onsale{
+  background-color: #f7732f !important 
+}
+.btn.btn-color-primary{
+   background-color: #f7732f !important 
+}
+.btn.btn-color-primary.btn-style-link{
+  background-color: transparent !important
+}
+.wd-header-cart.wd-design-2 .wd-cart-number, .wd-header-cart.wd-design-5 .wd-cart-number{
+  background-color: #f7732f !important 
+}
+.cat-item-15{
+  display:none !important;
+}
+.price_slider_amount .button{
+  color: #ffffff !important
+}
+.labels-rounded .product-label{
+  font-size: 11px !important;
+}
+.wa__btn_popup {
+    right: 8px;
+    bottom: 116px;
+}
+
+.text-quienes-somos .wd-rs-61f09ffcb7452{
+  text-align:justify !important
+}
+.page-title-default{
+  background-color: #F4B490 !important
+}
+.wd-rs-61fabe84bd4a6 img{
+  display:none !important
+}
+
+.footer-container{
+  background-color: #e9d8a61f !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
